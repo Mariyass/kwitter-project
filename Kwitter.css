@@ -1,0 +1,24 @@
+html
+{
+    height: 100%;
+    margin: 0;
+}
+
+
+body
+{
+background-image: linear-gradient(to right top, #f133a2, #d925b2, #c118aa);
+text-align: center;
+}
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+.header
+{
+	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
